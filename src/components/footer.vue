@@ -1,17 +1,13 @@
 <template>
-  <div id="app">
-    app
-  </div>
+
 </template>
 
 <script>
 export default {
-  name: 'App',
-
+name:'footer'
 }
 </script>
 
 <style scoped>
 
 </style>
-
